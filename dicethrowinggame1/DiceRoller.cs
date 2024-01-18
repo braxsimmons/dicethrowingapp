@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Braxdon Simmons
+//Section 1
+//This program rolls two dice and charts the results in a histoplot with *
+
+using System;
 
 public class DiceRoller
 {
